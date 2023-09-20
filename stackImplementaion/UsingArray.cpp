@@ -1,7 +1,7 @@
 
 
 // <---------Stack Implementation Using Array----->
-// LIFO
+// idea -->Last In First Out(LIFO)
 #include<bits/stdc++.h>
 using namespace std;
 int idx=-1;
