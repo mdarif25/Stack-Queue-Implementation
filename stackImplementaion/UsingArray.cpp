@@ -1,6 +1,7 @@
 
 
 // <---------Stack Implementation Using Array----->
+// LIFO
 #include<bits/stdc++.h>
 using namespace std;
 int idx=-1;
