@@ -1,5 +1,5 @@
 //   Queue implementation using array
-// FIFO
+//   FIFO
 #include<bits/stdc++.h>
 using namespace std;
 int front=-1,rear=-1;
