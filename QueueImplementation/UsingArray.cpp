@@ -1,4 +1,4 @@
-//   Queue implementation using array
+//   Queue implementation using an array
 //   FIFO
 #include<bits/stdc++.h>
 using namespace std;
