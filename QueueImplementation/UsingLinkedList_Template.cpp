@@ -19,7 +19,7 @@ template <class T> class Queue
             public:
             Node *next;
             T key;
-            Node(int x)
+            Node(T x)
             {
                 next = NULL;
                 key = x;
@@ -31,7 +31,7 @@ template <class T> class Queue
         {
             return rear == NULL;
         }
-        void Enqueue(int num)
+        void Enqueue(T num)
         {
             if (isEmpty()) {
                 rear = new Node(num);
